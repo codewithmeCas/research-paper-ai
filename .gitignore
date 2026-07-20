@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.pyc
+.venv/
+venv/
+temp_uploads/
+outputs/summaries/*
+outputs/presentations/*
+.DS_Store
